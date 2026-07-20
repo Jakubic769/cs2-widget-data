@@ -1,7 +1,14 @@
 {
-    "rating": "0",
-    "kd": "---",
-    "hltv": "---",
-    "winrate": "---",
-    "time": "18:42"
+  "name": null,
+  "premier_rank": null,
+  "faceit_elo": null,
+  "leetify_rating": null,
+  "wingman_rank": null,
+  "aim_rating": null,
+  "positioning_rating": null,
+  "utility_rating": null,
+  "clutch_rating": null,
+  "winrate": null,
+  "total_matches": null,
+  "preaim": null
 }
