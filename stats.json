@@ -1,14 +1,14 @@
 {
-  "name": null,
+  "name": "XanaX skins.army",
   "premier_rank": null,
   "faceit_elo": null,
-  "leetify_rating": null,
-  "wingman_rank": null,
-  "aim_rating": null,
-  "positioning_rating": null,
-  "utility_rating": null,
-  "clutch_rating": null,
-  "winrate": null,
-  "total_matches": null,
-  "preaim": null
+  "leetify_rating": 1.17,
+  "wingman_rank": 6,
+  "aim_rating": 85.3141,
+  "positioning_rating": 41.2936,
+  "utility_rating": 33.9195,
+  "clutch_rating": 0.1473,
+  "winrate": 0.5862,
+  "total_matches": 143,
+  "preaim": 8.2206
 }
