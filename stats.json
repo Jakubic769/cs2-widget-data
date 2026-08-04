@@ -1,14 +1,14 @@
 {
-  "name": "XanaX skins.army",
+  "name": "SweetieFox skins.army",
   "premier_rank": null,
   "faceit_elo": null,
-  "leetify_rating": 0.38999999999999996,
+  "leetify_rating": -0.42,
   "wingman_rank": 6,
-  "aim_rating": 81.594,
-  "positioning_rating": 36.3169,
-  "utility_rating": 29.0255,
-  "clutch_rating": 0.1375,
+  "aim_rating": 76.1148,
+  "positioning_rating": 34.4578,
+  "utility_rating": 25.4482,
+  "clutch_rating": 0.1199,
   "winrate": 0.5517,
-  "total_matches": 153,
-  "preaim": 8.6465
+  "total_matches": 155,
+  "preaim": 8.732
 }
